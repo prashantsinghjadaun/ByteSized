@@ -37,4 +37,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0100-same-tree) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
