@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0202-happy-number) |
 ## Math
 |  |
@@ -42,4 +43,12 @@
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0197-rising-temperature) |
+## Array
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
