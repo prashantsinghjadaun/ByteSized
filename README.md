@@ -49,6 +49,7 @@
 | [0036-valid-sudoku](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0036-valid-sudoku) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3634-minimum-removals-to-balance-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3634-minimum-removals-to-balance-array) |
 ## Matrix
 |  |
 | ------- |
@@ -65,4 +66,13 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3634-minimum-removals-to-balance-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3634-minimum-removals-to-balance-array) |
+## Binary Search
+|  |
+| ------- |
+| [3634-minimum-removals-to-balance-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3634-minimum-removals-to-balance-array) |
+## Sliding Window
+|  |
+| ------- |
+| [3634-minimum-removals-to-balance-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3634-minimum-removals-to-balance-array) |
 <!---LeetCode Topics End-->
