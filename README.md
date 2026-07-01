@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0100-same-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -51,11 +52,13 @@
 | [0036-valid-sudoku](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0036-valid-sudoku) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3634-minimum-removals-to-balance-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3634-minimum-removals-to-balance-array) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0036-valid-sudoku) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +76,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0004-median-of-two-sorted-arrays) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3634-minimum-removals-to-balance-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sliding Window
 |  |
@@ -87,4 +91,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0004-median-of-two-sorted-arrays) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
