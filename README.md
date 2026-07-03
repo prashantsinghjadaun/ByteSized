@@ -28,10 +28,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0100-same-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0100-same-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0100-same-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1382-balance-a-binary-search-tree) |
 ## Database
 |  |
 | ------- |
@@ -72,6 +75,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1382-balance-a-binary-search-tree) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
@@ -102,6 +106,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0004-median-of-two-sorted-arrays) |
+| [1382-balance-a-binary-search-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1382-balance-a-binary-search-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -123,4 +128,8 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
