@@ -34,10 +34,12 @@
 | ------- |
 | [0100-same-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0100-same-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1382-balance-a-binary-search-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0100-same-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
@@ -110,6 +112,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -123,6 +126,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
