@@ -104,6 +104,7 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,4 +137,8 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1382-balance-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 <!---LeetCode Topics End-->
