@@ -10,6 +10,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0202-happy-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
@@ -106,6 +107,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0067-add-binary) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Divide and Conquer
@@ -144,4 +146,12 @@
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
