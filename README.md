@@ -14,6 +14,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0202-happy-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
@@ -171,4 +172,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0067-add-binary) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
