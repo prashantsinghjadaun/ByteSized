@@ -72,6 +72,7 @@
 | [1288-remove-covered-intervals](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0036-valid-sudoku) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3643-flip-square-submatrix-vertically](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3643-flip-square-submatrix-vertically) |
