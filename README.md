@@ -73,6 +73,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0713-subarray-product-less-than-k) |
 | [1288-remove-covered-intervals](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1331-rank-transform-of-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1480-running-sum-of-1d-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0713-subarray-product-less-than-k) |
+| [1480-running-sum-of-1d-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1480-running-sum-of-1d-array) |
 ## Graph Theory
 |  |
 | ------- |
