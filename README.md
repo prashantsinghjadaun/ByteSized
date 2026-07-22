@@ -77,6 +77,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2553-separate-the-digits-in-an-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2553-separate-the-digits-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0067-add-binary) |
+| [2553-separate-the-digits-in-an-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2553-separate-the-digits-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
