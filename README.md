@@ -14,6 +14,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0202-happy-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -110,6 +111,7 @@
 | [1288-remove-covered-intervals](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3536-maximum-product-of-two-digits](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3634-minimum-removals-to-balance-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3867-sum-of-gcd-of-formed-pairs) |
