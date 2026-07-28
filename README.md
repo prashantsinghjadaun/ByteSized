@@ -114,6 +114,7 @@
 | [1288-remove-covered-intervals](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3634-minimum-removals-to-balance-array) |
@@ -140,6 +141,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -196,4 +198,8 @@
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
