@@ -15,6 +15,7 @@
 | [0067-add-binary](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0628-maximum-product-of-three-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3536-maximum-product-of-two-digits](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -82,6 +83,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2553-separate-the-digits-in-an-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2553-separate-the-digits-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -94,6 +96,7 @@
 | [0036-valid-sudoku](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0036-valid-sudoku) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3643-flip-square-submatrix-vertically](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
@@ -192,6 +195,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0067-add-binary) |
 | [2553-separate-the-digits-in-an-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2553-separate-the-digits-in-an-array) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
