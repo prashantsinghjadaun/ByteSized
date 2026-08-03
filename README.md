@@ -10,6 +10,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3643-flip-square-submatrix-vertically) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
