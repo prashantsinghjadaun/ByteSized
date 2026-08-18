@@ -12,6 +12,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
@@ -96,6 +97,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3634-minimum-removals-to-balance-array) |
