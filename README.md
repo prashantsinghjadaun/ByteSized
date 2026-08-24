@@ -18,6 +18,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0628-maximum-product-of-three-numbers) |
