@@ -115,6 +115,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3875-construct-uniform-parity-array-i) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Matrix
 |  |
 | ------- |
