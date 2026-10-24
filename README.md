@@ -88,6 +88,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0036-valid-sudoku) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0628-maximum-product-of-three-numbers) |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0035-search-insert-position) |
 | [0713-subarray-product-less-than-k](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0713-subarray-product-less-than-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2540-minimum-common-value](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2540-minimum-common-value) |
