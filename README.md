@@ -26,6 +26,7 @@
 | [0067-add-binary](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0628-maximum-product-of-three-numbers) |
+| [2409-count-days-spent-together](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2409-count-days-spent-together) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3536-maximum-product-of-two-digits) |
@@ -182,6 +183,7 @@
 | [0067-add-binary](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0067-add-binary) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2409-count-days-spent-together](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2409-count-days-spent-together) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
