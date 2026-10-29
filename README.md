@@ -55,11 +55,13 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0101-symmetric-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0101-symmetric-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1382-balance-a-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2685-count-the-number-of-complete-components) |
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0101-symmetric-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -77,6 +80,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0101-symmetric-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1382-balance-a-binary-search-tree) |
 ## Database
 |  |
