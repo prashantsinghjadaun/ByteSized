@@ -25,6 +25,7 @@
 | [0009-palindrome-number](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0628-maximum-product-of-three-numbers) |
 | [2409-count-days-spent-together](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2409-count-days-spent-together) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -95,6 +96,7 @@
 | [0035-search-insert-position](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0036-valid-sudoku) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0713-subarray-product-less-than-k) |
 | [1288-remove-covered-intervals](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1288-remove-covered-intervals) |
