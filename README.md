@@ -40,6 +40,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0202-happy-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3643-flip-square-submatrix-vertically) |
@@ -101,6 +102,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0713-subarray-product-less-than-k) |
 | [1288-remove-covered-intervals](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1480-running-sum-of-1d-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -154,6 +156,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -168,6 +171,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0035-search-insert-position) |
 | [0713-subarray-product-less-than-k](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0713-subarray-product-less-than-k) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2540-minimum-common-value](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2812-find-the-safest-path-in-a-grid) |
