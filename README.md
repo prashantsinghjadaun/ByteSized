@@ -10,6 +10,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2540-minimum-common-value](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2540-minimum-common-value) |
+| [2747-count-zero-request-servers](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -111,6 +112,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2553-separate-the-digits-in-an-array) |
+| [2747-count-zero-request-servers](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2747-count-zero-request-servers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -158,6 +160,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2747-count-zero-request-servers](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -184,6 +187,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/prashantsinghjadaun/ByteSized/tree/master/0713-subarray-product-less-than-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prashantsinghjadaun/ByteSized/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2747-count-zero-request-servers](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prashantsinghjadaun/ByteSized/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prashantsinghjadaun/ByteSized/tree/master/3090-maximum-length-substring-with-two-occurrences) |
